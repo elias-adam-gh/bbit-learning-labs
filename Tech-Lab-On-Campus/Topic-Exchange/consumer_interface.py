@@ -16,7 +16,7 @@
 class mqConsumerInterface:
     def __init__(self, exchange_name: str) -> None:
         # Save parameters to class variables
-
+        
         # Call setupRMQConnection
 
         pass

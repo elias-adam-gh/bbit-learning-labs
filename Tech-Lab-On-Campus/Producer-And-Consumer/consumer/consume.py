@@ -16,7 +16,7 @@
 
 import os
 import sys
-
+print("Banana")
 from solution.consumer_sol import mqConsumer  # pylint: disable=import-error
 
 
